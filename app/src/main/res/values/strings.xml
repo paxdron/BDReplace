@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BDReplace</string>
+    <string name="addEvent">Add Event</string>
+    <string name="getEvents">Get Events</string>
+    <string name="query">Query</string>
+    <string name="Dev">Device</string>
+</resources>
